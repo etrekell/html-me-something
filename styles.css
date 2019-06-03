@@ -1,0 +1,31 @@
+body{
+    background-color: ivory;
+    border: 20px solid #1976b4;
+    padding: 20px;
+    max-width: 700px;
+    width: 80%;
+    margin: 20px auto;
+    font-family: 'Source Sans Pro';
+}
+
+html{
+    background-image: url(images/static.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+footer{
+    margin-top: 50px;
+}
+
+ul {
+  list-style-type: none;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
